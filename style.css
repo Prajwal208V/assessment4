@@ -1,0 +1,26 @@
+h1{
+    color:red;
+}
+h3{
+    color:orange;
+}
+ol{
+    color:brown;
+}
+ul{
+    color:brown;
+}
+p{
+    color:brown;
+}
+
+a{
+    text-decoration:none;
+}
+#line-through{
+    text-decoration:line-through;
+}
+#unorder-list{
+    font-family: 'Inconsolata', monospace;
+    letter-spacing:1px;
+}
